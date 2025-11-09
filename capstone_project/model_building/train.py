@@ -64,7 +64,7 @@ with mlflow.start_run():
         mean_score = results['mean_test_score'][i]
         std_score = results['std_test_score'][i]
         
-        #Following lines can be used to log all the parameter combination but if we run it at once we'll hit the ngrok limit
+        #Following lines can be used to log all the parameter combination but if we run it at once we'll hit the ngrok limit.
         #If we add delay, it takes many hours to finish
         ## Log each combination as a separate MLflow run
         with mlflow.start_run(nested=True):
