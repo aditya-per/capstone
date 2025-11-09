@@ -22,7 +22,7 @@ Coolant_pressure = st.number_input("Coolant pressure (in kPa)", min_value=0.0, m
 lub_oil_temp = st.number_input("Lub oil temprature (in °C)", min_value=0.0, max_value=100.0, value=70.0,format="%.4f")
 Coolant_temp = st.number_input("Coolant temprature (in °C)", min_value=0.0, max_value=250.0, value=100.0,format="%.4f")
 
-# Save the inputs into a Dataframe. Convert categorical inputs to match model training.
+# Save the inputs into a Dataframe. Convert categorical inputs to match model training
 input_data = pd.DataFrame([{
     'Engine rpm': Engine_rpm,
     'Lub oil pressure': Lub_oil_pressure,
