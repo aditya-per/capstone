@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/6d4d6489c54f4ef298e5076e2d825d15/artifacts
+end_time: 1762706923984
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 6d4d6489c54f4ef298e5076e2d825d15
+run_name: rogue-lamb-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706920005
+status: 3
+tags: []
+user_id: runner

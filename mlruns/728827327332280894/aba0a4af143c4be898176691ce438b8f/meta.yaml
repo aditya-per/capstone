@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/aba0a4af143c4be898176691ce438b8f/artifacts
+end_time: 1762706820028
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: aba0a4af143c4be898176691ce438b8f
+run_name: sneaky-steed-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706816083
+status: 3
+tags: []
+user_id: runner

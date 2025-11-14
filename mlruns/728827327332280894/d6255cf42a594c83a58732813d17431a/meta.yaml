@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/d6255cf42a594c83a58732813d17431a/artifacts
+end_time: 1762706815358
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: d6255cf42a594c83a58732813d17431a
+run_name: bouncy-fish-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706811395
+status: 3
+tags: []
+user_id: runner

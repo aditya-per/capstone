@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/d9c037ef9ef14a1faa274162c7f7d268/artifacts
+end_time: 1762706869579
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: d9c037ef9ef14a1faa274162c7f7d268
+run_name: sneaky-owl-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706865508
+status: 3
+tags: []
+user_id: runner

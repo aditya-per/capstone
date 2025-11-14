@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/7322e7cf3c7e4ac4ac5e57c2a31f4e3d/artifacts
+end_time: 1762706943583
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 7322e7cf3c7e4ac4ac5e57c2a31f4e3d
+run_name: selective-flea-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706939308
+status: 3
+tags: []
+user_id: runner

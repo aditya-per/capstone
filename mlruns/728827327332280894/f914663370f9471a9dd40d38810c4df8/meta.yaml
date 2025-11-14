@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/f914663370f9471a9dd40d38810c4df8/artifacts
+end_time: 1762707008400
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: f914663370f9471a9dd40d38810c4df8
+run_name: sincere-penguin-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762707004230
+status: 3
+tags: []
+user_id: runner

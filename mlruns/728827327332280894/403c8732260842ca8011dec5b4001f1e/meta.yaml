@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/403c8732260842ca8011dec5b4001f1e/artifacts
+end_time: 1762706508414
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 403c8732260842ca8011dec5b4001f1e
+run_name: rare-grub-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706504344
+status: 3
+tags: []
+user_id: runner

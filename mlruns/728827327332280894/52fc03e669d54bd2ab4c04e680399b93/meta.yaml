@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/52fc03e669d54bd2ab4c04e680399b93/artifacts
+end_time: 1762706859750
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 52fc03e669d54bd2ab4c04e680399b93
+run_name: peaceful-crab-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706855535
+status: 3
+tags: []
+user_id: runner

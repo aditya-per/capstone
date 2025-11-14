@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/2a97b5a759cd4bb7baee642196da01aa/artifacts
+end_time: 1762706963449
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 2a97b5a759cd4bb7baee642196da01aa
+run_name: bemused-donkey-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706959278
+status: 3
+tags: []
+user_id: runner

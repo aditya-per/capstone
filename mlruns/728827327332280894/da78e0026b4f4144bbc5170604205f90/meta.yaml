@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/da78e0026b4f4144bbc5170604205f90/artifacts
+end_time: 1762706776215
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: da78e0026b4f4144bbc5170604205f90
+run_name: mysterious-hare-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706772131
+status: 3
+tags: []
+user_id: runner

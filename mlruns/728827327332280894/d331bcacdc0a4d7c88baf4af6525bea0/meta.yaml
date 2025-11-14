@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/d331bcacdc0a4d7c88baf4af6525bea0/artifacts
+end_time: 1762706670978
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: d331bcacdc0a4d7c88baf4af6525bea0
+run_name: intelligent-rat-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706666772
+status: 3
+tags: []
+user_id: runner

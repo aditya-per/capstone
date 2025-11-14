@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/bccaac4a44d4419dbc930ab865b43430/artifacts
+end_time: 1762707003505
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: bccaac4a44d4419dbc930ab865b43430
+run_name: powerful-vole-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706999320
+status: 3
+tags: []
+user_id: runner

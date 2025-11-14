@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/0eea3b03c1394dfbb469037939dd5d17/artifacts
+end_time: 1762707037956
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 0eea3b03c1394dfbb469037939dd5d17
+run_name: unruly-wolf-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762707033853
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/713529d6ff1442c8aef8868f0dc4ebdb/artifacts
+end_time: 1762706899385
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 713529d6ff1442c8aef8868f0dc4ebdb
+run_name: fun-hawk-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706895266
+status: 3
+tags: []
+user_id: runner

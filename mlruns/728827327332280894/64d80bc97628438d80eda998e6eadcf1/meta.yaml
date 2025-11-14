@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/64d80bc97628438d80eda998e6eadcf1/artifacts
+end_time: 1762706751702
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 64d80bc97628438d80eda998e6eadcf1
+run_name: salty-elk-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706747445
+status: 3
+tags: []
+user_id: runner

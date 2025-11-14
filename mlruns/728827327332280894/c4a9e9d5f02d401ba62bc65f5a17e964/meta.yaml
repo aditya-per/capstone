@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/c4a9e9d5f02d401ba62bc65f5a17e964/artifacts
+end_time: 1762706567057
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: c4a9e9d5f02d401ba62bc65f5a17e964
+run_name: respected-koi-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706562886
+status: 3
+tags: []
+user_id: runner

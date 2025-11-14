@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/e22769beb34f42edbbbf0e66112f2282/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: e22769beb34f42edbbbf0e66112f2282
+run_name: selective-seal-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706276327
+status: 1
+tags: []
+user_id: runner

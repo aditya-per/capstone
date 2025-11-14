@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/c005fff919dc481fa6ea4204c39a5309/artifacts
+end_time: 1762706621224
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: c005fff919dc481fa6ea4204c39a5309
+run_name: glamorous-duck-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706617076
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/3ddbfc15e7284365bdffd3bb05e6cc94/artifacts
+end_time: 1762707013324
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 3ddbfc15e7284365bdffd3bb05e6cc94
+run_name: puzzled-hen-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762707009246
+status: 3
+tags: []
+user_id: runner

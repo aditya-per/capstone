@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/f78c2f8bbe294c4c8d083d8f703d1a94/artifacts
+end_time: 1762706889561
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: f78c2f8bbe294c4c8d083d8f703d1a94
+run_name: silent-stag-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706885378
+status: 3
+tags: []
+user_id: runner

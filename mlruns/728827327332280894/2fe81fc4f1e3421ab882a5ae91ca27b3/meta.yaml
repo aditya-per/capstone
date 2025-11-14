@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/2fe81fc4f1e3421ab882a5ae91ca27b3/artifacts
+end_time: 1762706834875
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 2fe81fc4f1e3421ab882a5ae91ca27b3
+run_name: glamorous-lynx-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706830697
+status: 3
+tags: []
+user_id: runner

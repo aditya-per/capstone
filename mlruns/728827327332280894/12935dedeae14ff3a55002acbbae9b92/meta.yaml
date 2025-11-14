@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/12935dedeae14ff3a55002acbbae9b92/artifacts
+end_time: 1762706781126
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 12935dedeae14ff3a55002acbbae9b92
+run_name: gifted-snake-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706776967
+status: 3
+tags: []
+user_id: runner

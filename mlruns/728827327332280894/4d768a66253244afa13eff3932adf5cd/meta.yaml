@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/4d768a66253244afa13eff3932adf5cd/artifacts
+end_time: 1762706546889
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 4d768a66253244afa13eff3932adf5cd
+run_name: abundant-kite-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706539746
+status: 3
+tags: []
+user_id: runner

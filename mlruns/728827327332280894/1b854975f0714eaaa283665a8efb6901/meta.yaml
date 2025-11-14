@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/1b854975f0714eaaa283665a8efb6901/artifacts
+end_time: 1762706933547
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 1b854975f0714eaaa283665a8efb6901
+run_name: delicate-cod-850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706929404
+status: 3
+tags: []
+user_id: runner

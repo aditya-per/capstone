@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/8d4ac906925e4e53857519b482cb2417/artifacts
+end_time: 1762706879614
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 8d4ac906925e4e53857519b482cb2417
+run_name: upset-hawk-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706875344
+status: 3
+tags: []
+user_id: runner

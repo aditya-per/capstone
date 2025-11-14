@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/4e10be50774a44ac96811f7daf128324/artifacts
+end_time: 1762706523506
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 4e10be50774a44ac96811f7daf128324
+run_name: righteous-panda-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706519171
+status: 3
+tags: []
+user_id: runner

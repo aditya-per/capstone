@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/93eccdff8c9d42408a4226ed3743527f/artifacts
+end_time: 1762706631778
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 93eccdff8c9d42408a4226ed3743527f
+run_name: orderly-trout-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706626988
+status: 3
+tags: []
+user_id: runner

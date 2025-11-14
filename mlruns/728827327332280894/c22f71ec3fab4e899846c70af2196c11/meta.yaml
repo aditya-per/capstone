@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/c22f71ec3fab4e899846c70af2196c11/artifacts
+end_time: 1762706800587
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: c22f71ec3fab4e899846c70af2196c11
+run_name: gregarious-worm-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706796508
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/192bcea697394253ba786e717fba5dd7/artifacts
+end_time: 1762706518414
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 192bcea697394253ba786e717fba5dd7
+run_name: clumsy-mare-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706514248
+status: 3
+tags: []
+user_id: runner

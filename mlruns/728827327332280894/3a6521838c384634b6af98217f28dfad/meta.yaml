@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/3a6521838c384634b6af98217f28dfad/artifacts
+end_time: 1762706539013
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 3a6521838c384634b6af98217f28dfad
+run_name: grandiose-worm-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706534727
+status: 3
+tags: []
+user_id: runner

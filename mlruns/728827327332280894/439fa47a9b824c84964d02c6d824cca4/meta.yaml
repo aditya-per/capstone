@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/439fa47a9b824c84964d02c6d824cca4/artifacts
+end_time: 1762707057828
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 439fa47a9b824c84964d02c6d824cca4
+run_name: languid-stag-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762707053692
+status: 3
+tags: []
+user_id: runner

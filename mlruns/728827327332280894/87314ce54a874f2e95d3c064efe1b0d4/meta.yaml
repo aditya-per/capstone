@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/87314ce54a874f2e95d3c064efe1b0d4/artifacts
+end_time: 1762706844598
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 87314ce54a874f2e95d3c064efe1b0d4
+run_name: merciful-tern-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706840447
+status: 3
+tags: []
+user_id: runner

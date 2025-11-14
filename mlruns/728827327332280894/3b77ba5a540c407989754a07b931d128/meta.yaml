@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/3b77ba5a540c407989754a07b931d128/artifacts
+end_time: 1762706968568
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 3b77ba5a540c407989754a07b931d128
+run_name: abundant-shrimp-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706964298
+status: 3
+tags: []
+user_id: runner

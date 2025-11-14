@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/c5121524f86643e2a3c5b4dd1e514bf5/artifacts
+end_time: 1762706829847
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: c5121524f86643e2a3c5b4dd1e514bf5
+run_name: unleashed-chimp-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706825677
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/ec3b498a62d447c2b706bd6495c2dbf5/artifacts
+end_time: 1762706810674
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: ec3b498a62d447c2b706bd6495c2dbf5
+run_name: popular-rook-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706806139
+status: 3
+tags: []
+user_id: runner

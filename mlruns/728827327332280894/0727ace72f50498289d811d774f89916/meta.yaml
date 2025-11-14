@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/0727ace72f50498289d811d774f89916/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 0727ace72f50498289d811d774f89916
+run_name: sedate-ape-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762707058565
+status: 1
+tags: []
+user_id: runner

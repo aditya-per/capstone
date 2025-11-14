@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/1bbf2561d6c64aff811087bc77c7d2fc/artifacts
+end_time: 1762706766477
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 1bbf2561d6c64aff811087bc77c7d2fc
+run_name: youthful-cat-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706762382
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/0ba0a1addf4c4f1591e1f263c51c8e4e/artifacts
+end_time: 1762706988541
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 0ba0a1addf4c4f1591e1f263c51c8e4e
+run_name: brawny-squid-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706984366
+status: 3
+tags: []
+user_id: runner

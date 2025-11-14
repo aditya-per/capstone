@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/3ce6c81d380142c494c4083cdb606b9d/artifacts
+end_time: 1762706606649
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 3ce6c81d380142c494c4083cdb606b9d
+run_name: welcoming-fawn-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706602526
+status: 3
+tags: []
+user_id: runner

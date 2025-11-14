@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/4ece4a8a07f640e98e71d837b9049c99/artifacts
+end_time: 1762706914227
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 4ece4a8a07f640e98e71d837b9049c99
+run_name: melodic-koi-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706910061
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/070f46312ac24450b2589967cd402773/artifacts
+end_time: 1762706596861
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 070f46312ac24450b2589967cd402773
+run_name: handsome-grouse-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706592741
+status: 3
+tags: []
+user_id: runner

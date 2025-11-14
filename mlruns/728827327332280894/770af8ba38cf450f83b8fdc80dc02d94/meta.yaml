@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/770af8ba38cf450f83b8fdc80dc02d94/artifacts
+end_time: 1762706685483
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 770af8ba38cf450f83b8fdc80dc02d94
+run_name: rare-lark-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706681311
+status: 3
+tags: []
+user_id: runner

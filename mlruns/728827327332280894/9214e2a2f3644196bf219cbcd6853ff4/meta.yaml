@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/9214e2a2f3644196bf219cbcd6853ff4/artifacts
+end_time: 1762706736381
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 9214e2a2f3644196bf219cbcd6853ff4
+run_name: wistful-stork-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706732102
+status: 3
+tags: []
+user_id: runner

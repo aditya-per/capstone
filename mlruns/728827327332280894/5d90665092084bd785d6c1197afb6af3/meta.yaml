@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/5d90665092084bd785d6c1197afb6af3/artifacts
+end_time: 1762706795647
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 5d90665092084bd785d6c1197afb6af3
+run_name: mysterious-roo-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706791557
+status: 3
+tags: []
+user_id: runner

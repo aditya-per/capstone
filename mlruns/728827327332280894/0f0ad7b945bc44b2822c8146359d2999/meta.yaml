@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/0f0ad7b945bc44b2822c8146359d2999/artifacts
+end_time: 1762706488131
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 0f0ad7b945bc44b2822c8146359d2999
+run_name: gifted-bug-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706483829
+status: 3
+tags: []
+user_id: runner

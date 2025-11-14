@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/bd8725e449c841359abb1b9b140bc14d/artifacts
+end_time: 1762706666011
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: bd8725e449c841359abb1b9b140bc14d
+run_name: capable-smelt-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706661998
+status: 3
+tags: []
+user_id: runner

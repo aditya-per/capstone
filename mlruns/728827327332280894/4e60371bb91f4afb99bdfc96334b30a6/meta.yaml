@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/4e60371bb91f4afb99bdfc96334b30a6/artifacts
+end_time: 1762706839730
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 4e60371bb91f4afb99bdfc96334b30a6
+run_name: adorable-sloth-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706835668
+status: 3
+tags: []
+user_id: runner

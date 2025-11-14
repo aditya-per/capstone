@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/d1cb3d73db744d0d99ddbe7aedde898f/artifacts
+end_time: 1762706720994
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: d1cb3d73db744d0d99ddbe7aedde898f
+run_name: rogue-ray-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706716128
+status: 3
+tags: []
+user_id: runner

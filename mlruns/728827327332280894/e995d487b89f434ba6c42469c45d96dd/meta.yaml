@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/e995d487b89f434ba6c42469c45d96dd/artifacts
+end_time: 1762706761612
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: e995d487b89f434ba6c42469c45d96dd
+run_name: learned-crow-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706757568
+status: 3
+tags: []
+user_id: runner

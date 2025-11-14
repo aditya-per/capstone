@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/0e1990e348ae4657a1e3f42f466841d9/artifacts
+end_time: 1762707446529
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: 0e1990e348ae4657a1e3f42f466841d9
+run_name: luxuriant-kite-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762707255894
+status: 3
+tags: []
+user_id: runner

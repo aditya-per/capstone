@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/728827327332280894/d68dd0a39374493785fcdc577a00f3fe/artifacts
+end_time: 1762706741293
+entry_point_name: ''
+experiment_id: '728827327332280894'
+lifecycle_stage: active
+run_id: d68dd0a39374493785fcdc577a00f3fe
+run_name: nebulous-worm-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762706737126
+status: 3
+tags: []
+user_id: runner
